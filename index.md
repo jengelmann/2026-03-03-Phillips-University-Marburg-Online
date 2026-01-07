@@ -16,7 +16,7 @@ enddate:  2026-03-03       # machine-readable end date for the workshop in YYYY-
 instructor: ["Cecilia Baldoni", "Julia Engelmann"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Golnaz Sarkar Farshi", "Robert Zwick"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["golnaz.sarkarfarshi@uni-marburg.de","julia.engelmann@nioz.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  TO DO # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes:  https://pad.carpentries.org/2026-03-03-Phillips-University-Marburg-Online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
@@ -230,8 +230,6 @@ special instructions.
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
   However, we do want to help create an inclusive, accessible experience for all participants. 
   We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
-  To request an accommodation for this workshop, please fill out the 
-  <a href="https://carpentries.typeform.com/to/B2OSYaD0">accommodation request form</a>.
   If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
 </p>
 <p>
@@ -252,6 +250,7 @@ Modify or remove the block below if you plan to record the workshop.
   Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another.
   To foster a positive online learning environment, we strongly recommend that participants join in real time.
   As a result, workshop recordings are not recommended and may not be available to learners.
+  Moreover, we ask learners to refrain from recording during the workshop to make sure everyone feels safe in the learning environment.
 </p>
 {% comment %}
 CONTACT EMAIL ADDRESS
